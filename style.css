@@ -1,0 +1,61 @@
+#contact iframe {
+    width: 100%;
+}
+
+.contact_1 h3 {
+    display: inline;
+}
+
+.contact_1 a {
+    text-shadow: none;
+}
+
+input {
+    background: grey
+}
+
+.movie_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.movie_head i {
+    float: right;
+}
+
+.movie_text span {
+    color: #ff7700;
+}
+.items{
+   margin-top:15px; 
+}
+.items h4{
+    padding: 8px;
+}
+.items img{
+    border-radius:30px;
+}
+.items p{
+    margin-top:10px;
+}
+.modal-content{
+    margin-top: 100px;
+}
+.book{
+    cursor:pointer;
+}
+.books hr{
+    margin-bottom: 10px;
+}
+.img_modal{
+    display: inline-block;
+    height: 400px;
+    width: 300px;
+}
+.p_modal{
+    margin-top: 10px;
+}
